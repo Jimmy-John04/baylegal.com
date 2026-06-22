@@ -3,3 +3,5 @@ wp-content/cache/
 wp-content/mu-plugins/wpengine-common/
 wp-config.php
 _wpeprivate/
+wp-content/mu-plugins/mu-plugin.php
+wp-content/mu-plugins/slt-force-strong-passwords.php
